@@ -12,7 +12,7 @@ https://commons.wikimedia.org/wiki/File:Sloop_(PSF).svg
 
 logos from `mude/public` (see readme there).
 
-## Image Text
+## Image Tests
 
 Here are a couple tests using an image from this repository `./images/sailboat-sloop.svg` that is rendered in the README using GitHub and jsdelvr:
 
